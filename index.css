@@ -26,12 +26,22 @@ nav a {
 header {
     padding-top: 38px;
     background-image: url("https://www.lacity.org/sites/g/files/wph1196/f/styles/isotope_tiles_full_tile__680x410_/public/bigstock-Los-Angeles-California-USA--230874199.jpg?itok=AoMvItXw");
+    height: 94vh;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    display: flex;
     background-size: cover;
     justify-content: center;
 }
 
 header h1 {
-    font-size: 3em;
+    font-size: 3.5em;
     padding-top: 20px;
 }
 .slide {
@@ -94,7 +104,6 @@ div h3 {
 }
 
 #contact {
-    align-items: center;
     justify-content: center;
 }
 
