@@ -5,8 +5,8 @@ I am looking forward to learning and growing my programming skills, so anytime y
 
 ### About me:
 
--19 years old
--Dębica, Poland
--AGH University of Science and Technology
--Love football
+- 19 years old
+- Dębica, Poland
+- AGH University of Science and Technology
+- Love football
 
