@@ -18,7 +18,7 @@ I am looking forward to learning and growing my programming skills, so anytime y
 ### Project Logo
 
   <p align="center">
-    <a href="https://github.com/AGH-Narzedzia-Informatyczne/meshi"><img src="./other%20images/meshi_logo.jpeg" alt="Meshi logo" width="250"/></a>
+    <a href="https://github.com/AGH-Narzedzia-Informatyczne/meshi"><img src="https://user-images.githubusercontent.com/38437109/99066082-b36e0f00-25a8-11eb-8b8c-0435b595e61f.jpg" alt="Meshi logo" width="250"/></a>
   </p>
   <p align="center"><a href="http://www.freepik.com">Designed by Freepik</a></p>
 
