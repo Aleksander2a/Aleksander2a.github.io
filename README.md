@@ -10,7 +10,7 @@ I am looking forward to learning and growing my programming skills, so anytime y
 - AGH University of Science and Technology
 - Love football
 
- 🔭 **I’m currently working on** "Meshi" open source web application. A college assignment project.
+ **My current project:**
 
 ## Meshi
 
